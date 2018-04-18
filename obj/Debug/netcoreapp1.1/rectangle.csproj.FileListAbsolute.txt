@@ -1,0 +1,9 @@
+/Users/vjs/Desktop/Rectangle-C#/bin/Debug/netcoreapp1.1/rectangle.deps.json
+/Users/vjs/Desktop/Rectangle-C#/bin/Debug/netcoreapp1.1/rectangle.runtimeconfig.json
+/Users/vjs/Desktop/Rectangle-C#/bin/Debug/netcoreapp1.1/rectangle.runtimeconfig.dev.json
+/Users/vjs/Desktop/Rectangle-C#/bin/Debug/netcoreapp1.1/rectangle.dll
+/Users/vjs/Desktop/Rectangle-C#/bin/Debug/netcoreapp1.1/rectangle.pdb
+/Users/vjs/Desktop/Rectangle-C#/obj/Debug/netcoreapp1.1/rectangle.csproj.CoreCompileInputs.cache
+/Users/vjs/Desktop/Rectangle-C#/obj/Debug/netcoreapp1.1/rectangle.AssemblyInfo.cs
+/Users/vjs/Desktop/Rectangle-C#/obj/Debug/netcoreapp1.1/rectangle.dll
+/Users/vjs/Desktop/Rectangle-C#/obj/Debug/netcoreapp1.1/rectangle.pdb
